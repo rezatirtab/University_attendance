@@ -1,0 +1,16 @@
+{
+  "name": "university-attendance-generator",
+  "version": "1.0.0",
+  "description": "Data generator for MongoDB indexing benchmark project (University Attendance System)",
+  "main": "generate_all.js",
+  "scripts": {
+    "generate:students": "node generate_students.js",
+    "generate:courses": "node generate_courses.js",
+    "generate:attendance": "node generate_attendance.js",
+    "generate:all": "npm run generate:courses && npm run generate:students && npm run generate:attendance"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "license": "MIT"
+}

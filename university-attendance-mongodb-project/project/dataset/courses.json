@@ -1,0 +1,602 @@
+[
+  {
+    "course_id": "CRS0001",
+    "course_name": "Data Structures B",
+    "lecturer": "Miriam Wisozk",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0002",
+    "course_name": "Database Systems C",
+    "lecturer": "Olga Dicki",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0003",
+    "course_name": "Operating Systems D",
+    "lecturer": "Homer Krajcik",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0004",
+    "course_name": "Computer Networks A",
+    "lecturer": "Mr. Evan Oberbrunner",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0005",
+    "course_name": "Software Engineering B",
+    "lecturer": "Velma Bartell",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0006",
+    "course_name": "Artificial Intelligence C",
+    "lecturer": "Alvin Morar",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0007",
+    "course_name": "Machine Learning D",
+    "lecturer": "Heidi Littel",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0008",
+    "course_name": "Web Development A",
+    "lecturer": "Joann Pagac",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0009",
+    "course_name": "Mobile Programming B",
+    "lecturer": "Allison Morar MD",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0010",
+    "course_name": "Computer Architecture C",
+    "lecturer": "Miss Sandra Crona",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0011",
+    "course_name": "Discrete Mathematics D",
+    "lecturer": "Noah Hintz",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0012",
+    "course_name": "Linear Algebra A",
+    "lecturer": "Dr. Sophie Smith",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0013",
+    "course_name": "Statistics B",
+    "lecturer": "Oliver Nikolaus",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0014",
+    "course_name": "Calculus C",
+    "lecturer": "Jean Schmitt",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0015",
+    "course_name": "Information Systems D",
+    "lecturer": "Dr. Sabrina Parisian",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0016",
+    "course_name": "Cyber Security A",
+    "lecturer": "Dr. Sheldon Collier DVM",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0017",
+    "course_name": "Cloud Computing B",
+    "lecturer": "Jan Turner",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0018",
+    "course_name": "Distributed Systems C",
+    "lecturer": "Tina Murazik",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0019",
+    "course_name": "Human Computer Interaction D",
+    "lecturer": "Horace Kunde",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0020",
+    "course_name": "Compiler Design A",
+    "lecturer": "Keith Grimes",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0021",
+    "course_name": "Theory of Computation B",
+    "lecturer": "Warren Reilly",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0022",
+    "course_name": "Data Mining C",
+    "lecturer": "Terry Abbott",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0023",
+    "course_name": "Big Data D",
+    "lecturer": "Nathaniel Langworth",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0024",
+    "course_name": "Computer Graphics A",
+    "lecturer": "Patrick Kilback",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0025",
+    "course_name": "Digital Image Processing B",
+    "lecturer": "Dr. Kathryn Bartoletti",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0026",
+    "course_name": "Embedded Systems C",
+    "lecturer": "Lionel Ward",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0027",
+    "course_name": "Internet of Things D",
+    "lecturer": "Ms. Mable Bechtelar",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0028",
+    "course_name": "Parallel Computing A",
+    "lecturer": "Sadie Rice",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0029",
+    "course_name": "Cryptography B",
+    "lecturer": "Josephine Raynor",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0030",
+    "course_name": "Algorithms C",
+    "lecturer": "Joanna Block",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0031",
+    "course_name": "Data Structures D",
+    "lecturer": "Gerald Green",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0032",
+    "course_name": "Database Systems A",
+    "lecturer": "Iris Will",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0033",
+    "course_name": "Operating Systems B",
+    "lecturer": "Angelo Champlin",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0034",
+    "course_name": "Computer Networks C",
+    "lecturer": "Woodrow Zboncak",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0035",
+    "course_name": "Software Engineering D",
+    "lecturer": "Daryl Kirlin-Schultz",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0036",
+    "course_name": "Artificial Intelligence A",
+    "lecturer": "Mamie Ernser DVM",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0037",
+    "course_name": "Machine Learning B",
+    "lecturer": "Harold Smitham",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0038",
+    "course_name": "Web Development C",
+    "lecturer": "Jaime Barrows",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0039",
+    "course_name": "Mobile Programming D",
+    "lecturer": "Arthur Howe Sr.",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0040",
+    "course_name": "Computer Architecture A",
+    "lecturer": "Jill Cruickshank",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0041",
+    "course_name": "Discrete Mathematics B",
+    "lecturer": "Judy Ferry II",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0042",
+    "course_name": "Linear Algebra C",
+    "lecturer": "Miss Estelle Heidenreich",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0043",
+    "course_name": "Statistics D",
+    "lecturer": "Tricia Kutch",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0044",
+    "course_name": "Calculus A",
+    "lecturer": "Debra Brakus-Franey",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0045",
+    "course_name": "Information Systems B",
+    "lecturer": "Ray Friesen",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0046",
+    "course_name": "Cyber Security C",
+    "lecturer": "Thomas Braun",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0047",
+    "course_name": "Cloud Computing D",
+    "lecturer": "Dora Lueilwitz",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0048",
+    "course_name": "Distributed Systems A",
+    "lecturer": "Rodolfo Botsford",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0049",
+    "course_name": "Human Computer Interaction B",
+    "lecturer": "Simon Hoeger",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0050",
+    "course_name": "Compiler Design C",
+    "lecturer": "Dr. Jeffery Haag",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0051",
+    "course_name": "Theory of Computation D",
+    "lecturer": "Mrs. Margaret Klocko",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0052",
+    "course_name": "Data Mining A",
+    "lecturer": "Jessie Spinka",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0053",
+    "course_name": "Big Data B",
+    "lecturer": "Danny Crooks",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0054",
+    "course_name": "Computer Graphics C",
+    "lecturer": "Warren Harber",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0055",
+    "course_name": "Digital Image Processing D",
+    "lecturer": "Earl Parker",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0056",
+    "course_name": "Embedded Systems A",
+    "lecturer": "Theresa Harber PhD",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0057",
+    "course_name": "Internet of Things B",
+    "lecturer": "Jennifer Kris",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0058",
+    "course_name": "Parallel Computing C",
+    "lecturer": "Alyssa Swift",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0059",
+    "course_name": "Cryptography D",
+    "lecturer": "Erin Smitham",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0060",
+    "course_name": "Algorithms A",
+    "lecturer": "Salvador Von",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0061",
+    "course_name": "Data Structures B",
+    "lecturer": "Kayla Hodkiewicz",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0062",
+    "course_name": "Database Systems C",
+    "lecturer": "Marty Kunde",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0063",
+    "course_name": "Operating Systems D",
+    "lecturer": "Darrin Wunsch",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0064",
+    "course_name": "Computer Networks A",
+    "lecturer": "Gary Stroman IV",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0065",
+    "course_name": "Software Engineering B",
+    "lecturer": "Mr. Jose Effertz",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0066",
+    "course_name": "Artificial Intelligence C",
+    "lecturer": "Ann Bogisich",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0067",
+    "course_name": "Machine Learning D",
+    "lecturer": "Jeremiah Veum III",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0068",
+    "course_name": "Web Development A",
+    "lecturer": "Dr. Johnnie Reichel",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0069",
+    "course_name": "Mobile Programming B",
+    "lecturer": "Jackie Goyette",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0070",
+    "course_name": "Computer Architecture C",
+    "lecturer": "Shelia Sawayn-Marvin DDS",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0071",
+    "course_name": "Discrete Mathematics D",
+    "lecturer": "Ben West",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0072",
+    "course_name": "Linear Algebra A",
+    "lecturer": "Alberta O'Kon PhD",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0073",
+    "course_name": "Statistics B",
+    "lecturer": "Willie Fisher",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0074",
+    "course_name": "Calculus C",
+    "lecturer": "Brenda Roberts",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0075",
+    "course_name": "Information Systems D",
+    "lecturer": "Kerry Klein",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0076",
+    "course_name": "Cyber Security A",
+    "lecturer": "Caroline Ryan-Gottlieb",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0077",
+    "course_name": "Cloud Computing B",
+    "lecturer": "Maria Heller",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0078",
+    "course_name": "Distributed Systems C",
+    "lecturer": "Daryl Watsica",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0079",
+    "course_name": "Human Computer Interaction D",
+    "lecturer": "Malcolm Cartwright-Tromp",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0080",
+    "course_name": "Compiler Design A",
+    "lecturer": "Cameron Reynolds",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0081",
+    "course_name": "Theory of Computation B",
+    "lecturer": "Ms. Olivia Crooks MD",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0082",
+    "course_name": "Data Mining C",
+    "lecturer": "Cory Heller",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0083",
+    "course_name": "Big Data D",
+    "lecturer": "Tyler Marquardt",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0084",
+    "course_name": "Computer Graphics A",
+    "lecturer": "Alma Hand",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0085",
+    "course_name": "Digital Image Processing B",
+    "lecturer": "Dr. Ted Turner-Mueller",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0086",
+    "course_name": "Embedded Systems C",
+    "lecturer": "Mindy Hyatt",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0087",
+    "course_name": "Internet of Things D",
+    "lecturer": "Lorenzo Cole",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0088",
+    "course_name": "Parallel Computing A",
+    "lecturer": "Fred Yost",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0089",
+    "course_name": "Cryptography B",
+    "lecturer": "Dr. Florence Johns",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0090",
+    "course_name": "Algorithms C",
+    "lecturer": "Bernice McKenzie",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0091",
+    "course_name": "Data Structures D",
+    "lecturer": "Francisco Schowalter",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0092",
+    "course_name": "Database Systems A",
+    "lecturer": "Rudolph Bogan",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0093",
+    "course_name": "Operating Systems B",
+    "lecturer": "Rhonda Weber",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0094",
+    "course_name": "Computer Networks C",
+    "lecturer": "Emanuel Willms-Bauch DVM",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0095",
+    "course_name": "Software Engineering D",
+    "lecturer": "Willie Lowe",
+    "credits": 3
+  },
+  {
+    "course_id": "CRS0096",
+    "course_name": "Artificial Intelligence A",
+    "lecturer": "Glenn Hagenes",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0097",
+    "course_name": "Machine Learning B",
+    "lecturer": "Heidi Hahn",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0098",
+    "course_name": "Web Development C",
+    "lecturer": "Pearl Schimmel",
+    "credits": 2
+  },
+  {
+    "course_id": "CRS0099",
+    "course_name": "Mobile Programming D",
+    "lecturer": "Brittany Muller",
+    "credits": 4
+  },
+  {
+    "course_id": "CRS0100",
+    "course_name": "Computer Architecture A",
+    "lecturer": "Bethany Kreiger",
+    "credits": 2
+  }
+]
